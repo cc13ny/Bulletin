@@ -4,7 +4,7 @@ Collections of awesome AI, Machine Learning, Bit Data usecases
 ----
 
 ### 自动驾驶
-- [Zoox, 机器人公司，开发全自动驾驶汽车](www.zoox.com)
+- [Zoox, 机器人公司，开发全自动驾驶汽车](http://www.zoox.com)
 - [nuTonomy, 通过大量自动驾驶汽车提供“点到点”的出行服务](http://nutonomy.com/)
 - [Dispatch, 一家自动化快递服务创业公司，利用自动驾驶汽车来提供智能化快递服务](http://dispatch.ai/)
 
