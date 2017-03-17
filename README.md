@@ -13,11 +13,15 @@ Collections of awesome AI, Machine Learning, Bit Data usecases
 ### 服装行业
 - [Practical use of data science at Stitch Fix](http://algorithms-tour.stitchfix.com/)
 
-### 文书行业: freelancers, transcriptionists
+### 文书行业
+freelancers, transcriptionists
 - [Introducing SwiftScribe: A Breakthrough in AI-Powered Transcription Software](http://research.baidu.com/introducing-swiftscribe-breakthrough-ai-powered-transcription-software/)
 - [Captricity, 一款安全的云服务软件，能把手写文章转换成电子版，准确度超过99%](http://captricity.com/)
 - [Textio, 在文章发表前预测出用户所撰写文章的质量及表现，从而让用户的文章做到最好](https://textio.com/)
 - [ROSS Intelligence, 利用人工智能技术让**律师**专注于最重要的事情上，即客户](http://rossintelligence.com/)
+
+### 教育行业
+- [Gradescope, 使用人工技术帮助老师对学生的表现评分，以节省时间](https://gradescope.com/)
 
 ### 生物制药/研究
 - [Atomiwise, 利用人工智能挖掘新的潜在药物](http://www.atomwise.com/)
@@ -36,6 +40,7 @@ Collections of awesome AI, Machine Learning, Bit Data usecases
 
 ### 自然语言处理
 - [Cortical, 提供基于“语义折叠理论”的自然语言理解(NLU)解决方案](http://www.cortical.io/)
+- [KITT.AI, 一家自然语言理解创业公司，由艾伦人工智能研究所和亚马逊Alexa基金等机构资助](http://kitt.ai/)
 
 ### 个人助理
 - [x.ai, 一款人工智能个人助理，可以为你安排会议](https://x.ai/)
